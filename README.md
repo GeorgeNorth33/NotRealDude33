@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotRealDude33
 - 👀 I’m interested in in
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning html,css,js,php,c#
 - 💞️ I’m not looking to collaborate with someone
 - 📫 How to reach me?
 
